@@ -1,4 +1,3 @@
-//Don't forget to include Java Docs!!!
 import java.io.*;
 import java.awt.*;
 import java.awt.event.*;
